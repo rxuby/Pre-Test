@@ -1,0 +1,51 @@
+* {
+    font-family: "Nunito", sans-serif;
+    
+}
+
+
+input{
+    width: 30%;
+    height: 25px;
+    border: 1px solid rgba(190, 190, 190, 0.555);
+    border-radius: 6px;
+}
+table {
+    border-collapse: collapse;
+    margin: auto;
+}
+
+button{
+    /* background-color: rgb(132, 212, 255);
+    border: 1px solid rgb(132, 212, 255); */
+    /* margin-top: 10px;
+    border-radius: 5px;
+    padding: 5px;  */
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+
+.coordinates{
+    text-align: center;
+    margin-left: 20px;
+}
+
+td {
+    width: 20px;
+    height: 20px;
+    border: 1px solid black;
+    background-color: white;
+}
+
+.path {
+    background-color: rgb(255, 255, 255);
+}
+
+.robot {
+    background-color: rgb(174, 249, 164);
+}
+
+.target {
+    background-color: red;
+}
